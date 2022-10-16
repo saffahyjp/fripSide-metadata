@@ -1,0 +1,70 @@
+- name: only my railgun
+  artists:
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: [八木沼悟志, yuki-ka]
+    vocal: 南條愛乃
+  tie_up:
+    category: tv_anime
+    name: とある科学の超電磁砲
+    type: op
+  albums:
+    - name: only my railgun
+      track: 1
+  duration: 4:17
+  bpm: 143
+  key:
+    - value: A flat minor
+      ranges: [0:00-0:34, 1:02-1:36, 2:05-3:05, 3:32-4:17]
+    - value: F minor
+      ranges: [0:34-1:02, 1:36-2:05]
+    - value: G minor
+      ranges: [3:05-3:32]
+- name: late in autumn
+  artists:
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: [南條愛乃, yuki-ka]
+    vocal: 南條愛乃
+  albums:
+    - name: only my railgun
+      track: 2
+  duration: 6:09
+  bpm: 130
+  key:
+    - value: C minor
+      ranges: 0:00-5:03
+    - value: D flat minor
+      ranges: 5:03-6:09
+- name: only my railgun (Instrumental)
+  artists:
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+  instrumental_of: only my railgun
+  albums:
+    - name: only my railgun
+      track: 3
+  duration: 4:16
+  bpm: 143
+  key:
+    - value: A flat minor
+      ranges: [0:00-0:34, 1:02-1:36, 2:05-3:05, 3:32-4:16]
+    - value: F minor
+      ranges: [0:34-1:02, 1:36-2:05]
+    - value: G minor
+      ranges: [3:05-3:32]
+- name: late in autumn (Instrumental)
+  artists:
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+  instrumental_of: late in autumn
+  albums:
+    - name: only my railgun
+      track: 4
+  duration: 6:06
+  bpm: 130
+  key:
+    - value: C minor
+      ranges: 0:00-5:03
+    - value: D flat minor
+      ranges: 5:03-6:06
