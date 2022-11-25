@@ -1,5 +1,6 @@
 - name: only my railgun
   artists:
+    artist: fripSide
     composer: 八木沼悟志
     arranger: 八木沼悟志
     lyricist: [八木沼悟志, yuki-ka]
@@ -22,6 +23,7 @@
       ranges: [3:05-3:32]
 - name: late in autumn
   artists:
+    artist: fripSide
     composer: 八木沼悟志
     arranger: 八木沼悟志
     lyricist: [南條愛乃, yuki-ka]
@@ -38,6 +40,7 @@
       ranges: 5:03-6:09
 - name: only my railgun (Instrumental)
   artists:
+    artist: fripSide
     composer: 八木沼悟志
     arranger: 八木沼悟志
   instrumental_of: only my railgun
@@ -55,6 +58,7 @@
       ranges: [3:05-3:32]
 - name: late in autumn (Instrumental)
   artists:
+    artist: fripSide
     composer: 八木沼悟志
     arranger: 八木沼悟志
   instrumental_of: late in autumn
@@ -68,3 +72,73 @@
       ranges: 0:00-5:03
     - value: D flat minor
       ranges: 5:03-6:06
+- name: LEVEL5 -judgelight-
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: fripSide
+    vocal: 南條愛乃
+  tie_up:
+    category: tv_anime
+    name: とある科学の超電磁砲
+    type: op
+  albums:
+    - name: LEVEL5 -judgelight-
+      track: 1
+  duration: 4:25
+  bpm: 139.5
+  key:
+    - value: A flat minor
+      ranges: [0:00-1:25, 1:40-2:21, 2:57-3:25]
+    - value: A minor
+      ranges: [1:25-1:40, 2:21-2:57, 3:25-4:25]
+- name: memory of snow
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: [八木沼悟志, yuki-ka]
+    vocal: 南條愛乃
+  albums:
+    - name: LEVEL5 -judgelight-
+      track: 2
+  duration: 5:01
+  bpm: 125
+  key:
+    - value: E flat minor
+      ranges: 0:00-3:55
+    - value: E minor
+      ranges: 3:55-5:01
+- name: LEVEL5 -judgelight- (Instrumental)
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+  instrumental_of: LEVEL5 -judgelight-
+  albums:
+    - name: LEVEL5 -judgelight-
+      track: 3
+  duration: 4:25
+  bpm: 139.5
+  key:
+    - value: A flat minor
+      ranges: [0:00-1:25, 1:40-2:21, 2:57-3:25]
+    - value: A minor
+      ranges: [1:25-1:40, 2:21-2:57, 3:25-4:25]
+- name: memory of snow (Instrumental)
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+  instrumental_of: memory of snow
+  albums:
+    - name: LEVEL5 -judgelight-
+      track: 4
+  duration: 4:56
+  bpm: 125
+  key:
+    - value: E flat minor
+      ranges: 0:00-3:55
+    - value: E minor
+      ranges: 3:55-4:56
