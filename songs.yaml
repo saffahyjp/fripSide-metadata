@@ -142,3 +142,81 @@
       ranges: 0:00-3:55
     - value: E minor
       ranges: 3:55-4:56
+- name: future gazer
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: [八木沼悟志, yuki-ka]
+    vocal: 南條愛乃
+  tie_up:
+    category: ova
+    name: とある科学の超電磁砲
+    type: op
+  albums:
+    - name: future gazer
+      track: 1
+  duration: 4:10
+  bpm: 138
+  key:
+    - value: G minor
+      ranges: [0:00-0:31, 1:00-1:30, 2:00-2:30, 2:59-3:27]
+    - value: G major
+      ranges: [0:31-1:00, 1:30-2:00, 2:30-2:59]
+    - value: A flat minor
+      ranges: 3:27-4:10
+- name: fortissimo -the ultimate crisis-
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: yuki-ka
+    vocal: 南條愛乃
+  tie_up:
+    category: pc_game
+    name: fortissimo//Akkord:Bsusvier
+    type: op
+  albums:
+    - name: future gazer
+      track: 2
+  duration: 4:56
+  bpm: 145.5
+  key:
+    - value: G minor
+      ranges: 0:00-3:51
+    - value: A flat minor
+      ranges: 3:51-4:56
+- name: future gazer (Instrumental)
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+  instrumental_of: future gazer
+  albums:
+    - name: future gazer
+      track: 3
+  duration: 4:10
+  bpm: 138
+  key:
+    - value: G minor
+      ranges: [0:00-0:31, 1:00-1:30, 2:00-2:30, 2:59-3:27]
+    - value: G major
+      ranges: [0:31-1:00, 1:30-2:00, 2:30-2:59]
+    - value: A flat minor
+      ranges: 3:27-4:10
+- name: fortissimo -the ultimate crisis- (Instrumental)
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+  instrumental_of: fortissimo -the ultimate crisis-
+  albums:
+    - name: future gazer
+      track: 4
+  duration: 4:54
+  bpm: 145.5
+  key:
+    - value: G minor
+      ranges: 0:00-3:51
+    - value: A flat minor
+      ranges: 3:51-4:54
