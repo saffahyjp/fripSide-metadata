@@ -12,6 +12,8 @@
   albums:
     - name: only my railgun
       track: 1
+    - name: infinite synthesis
+      track: 1
   duration: 4:17
   bpm: 143
   key:
@@ -31,6 +33,8 @@
   albums:
     - name: only my railgun
       track: 2
+    - name: infinite synthesis
+      track: 4
   duration: 6:09
   bpm: 130
   key:
@@ -86,6 +90,8 @@
   albums:
     - name: LEVEL5 -judgelight-
       track: 1
+    - name: infinite synthesis
+      track: 2
   duration: 4:25
   bpm: 139.5
   key:
@@ -156,6 +162,8 @@
   albums:
     - name: future gazer
       track: 1
+    - name: infinite synthesis
+      track: 5
   duration: 4:10
   bpm: 138
   key:
@@ -220,3 +228,162 @@
       ranges: 0:00-3:51
     - value: A flat minor
       ranges: 3:51-4:54
+- name: everlasting
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: [八木沼悟志, yuki-ka]
+    vocal: 南條愛乃
+  tie_up:
+    category: oad
+    name: ああっ女神さまっ 第４２巻 限定版
+    type: op
+  albums:
+    - name: infinite synthesis
+      track: 3
+  duration: 5:07
+  bpm: 105
+  key:
+    - value: B minor
+      ranges: 0:00-4:19
+    - value: C minor
+      ranges: 4:19-5:07
+- name: 悲しい星座
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: IKU
+    vocal: 南條愛乃
+  albums:
+    - name: infinite synthesis
+      track: 6
+  duration: 5:59
+  bpm: 103
+  key:
+    - value: F sharp minor
+      ranges: [0:00-1:39, 2:19-3:17, 4:15-4:36]
+    - value: B flat minor
+      ranges: [1:39-2:19, 3:17-4:15, 4:36-5:13]
+    - value: B minor
+      ranges: 5:13-5:59
+- name: crossing over
+  artists:
+    artist: fripSide
+    composer: [八木沼悟志, 川﨑海]
+    arranger: [八木沼悟志, 川﨑海]
+    lyricist: [八木沼悟志, 川﨑海]
+    vocal: 南條愛乃
+  albums:
+    - name: infinite synthesis
+      track: 7
+  duration: 4:11
+  bpm: 138
+  key: B flat minor
+- name: closest love
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: [八木沼悟志, yuki-ka]
+    vocal: 南條愛乃
+  tie_up:
+    category: pc_game
+    name: Areas 恋する乙女の3H
+    type: theme
+  albums:
+    - name: infinite synthesis
+      track: 8
+  duration: 4:36
+  bpm: 136
+  key:
+    - value: A flat minor
+      ranges: 0:00-3:38
+    - value: A minor
+      ranges: 3:38-4:36
+- name: meditations
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: 南條愛乃
+    vocal: 南條愛乃
+  albums:
+    - name: infinite synthesis
+      track: 9
+  duration: 6:14
+  bpm: 137
+  key: F sharp minor
+- name: trusty snow
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 齋藤真也
+    lyricist: 八木沼悟志
+    vocal: 南條愛乃
+  albums:
+    - name: infinite synthesis
+      track: 10
+  duration: 5:12
+  bpm: 134
+  key:
+    - value: F sharp minor
+      ranges: [0:00-0:23, 1:22-1:53, 2:39-4:14]
+    - value: E flat minor
+      ranges: [0:23-1:22, 1:53-2:39]
+    - value: G minor
+      ranges: 4:14-5:12
+- name: lost answer
+  artists:
+    artist: fripSide
+    composer: 川﨑海
+    arranger: [八木沼悟志, 川﨑海]
+    lyricist: [八木沼悟志, 川﨑海]
+    vocal: 南條愛乃
+  albums:
+    - name: infinite synthesis
+      track: 11
+  duration: 5:03
+  bpm: 144
+  key:
+    - value: G minor
+      ranges: [0:00-0:15, 1:21-1:48, 2:42-4:01]
+    - value: E minor
+      ranges: [0:15-1:21, 1:48-2:42]
+    - value: A flat minor
+      ranges: 4:01-5:03
+- name: eternal pain
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: 木村琴絵
+    vocal: 南條愛乃
+  albums:
+    - name: infinite synthesis
+      track: 12
+  duration: 6:17
+  bpm: 96
+  key:
+    - value: B minor
+      ranges: 0:00-2:53
+    - value: C minor
+      ranges: 2:53-4:23
+    - value: D flat minor
+      ranges: 4:23-4:43
+    - value: D minor
+      ranges: 4:43-6:17
+- name: stay with you
+  artists:
+    artist: fripSide
+    composer: 八木沼悟志
+    arranger: 八木沼悟志
+    lyricist: 南條愛乃
+    vocal: 南條愛乃
+  albums:
+    - name: infinite synthesis
+      track: 13
+  duration: 1:42
+  bpm: 77
+  key: C major
